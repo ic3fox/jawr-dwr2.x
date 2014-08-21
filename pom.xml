@@ -50,7 +50,7 @@
 		</mailingList>
 	</mailingLists>
 	<properties>
-		<jawr-core.version>3.5.1-SNAPSHOT</jawr-core.version>
+		<jawr-core.version>3.6-SNAPSHOT</jawr-core.version>
 		<dwr.version>2.0.2</dwr.version>
 		<mockito.version>1.9.5</mockito.version>
 		<junit.version>4.11</junit.version>
@@ -79,7 +79,7 @@
 			<dependency>
 				<groupId>net.jawr</groupId>
 				<artifactId>jawr-core</artifactId>
-				<version>3.5.2</version>
+				<version>${jawr-core.version}</version>
 			</dependency>
 			<dependency>
 				<groupId>${project.groupId}</groupId>
