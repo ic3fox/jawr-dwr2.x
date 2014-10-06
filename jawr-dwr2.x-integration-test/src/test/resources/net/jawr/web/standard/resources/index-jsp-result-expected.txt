@@ -6,7 +6,7 @@
 <link rel="stylesheet" type="text/css" media="all" href="/jawr-dwr2.x-integration-test/css/61573181/fwk/core/component.css" >
 
 <script type="text/javascript">if(!JAWR){var JAWR = {};};;JAWR.jawr_dwr_path='/jawr-dwr2.x-integration-test/dwr';JAWR.dwr_scriptSessionId='11111';JAWR.app_context_path='/jawr-dwr2.x-integration-test';</script>
-<script type="text/javascript" src="/jawr-dwr2.x-integration-test/jawr/N457235947/bundles/global.js" ></script>
+<script type="text/javascript" src="/jawr-dwr2.x-integration-test/jawr/N1741745057/bundles/global.js" ></script>
 
 
 <script type="text/javascript" src="/jawr-dwr2.x-integration-test/jawr/N341689529.en_US/js/bundle/msg.js" ></script>
