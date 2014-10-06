@@ -8,7 +8,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>net.jawr.extensions</groupId>
 	<artifactId>jawr-dwr2.x-parent</artifactId>
-	<version>3.6</version>
+	<version>3.7-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<name>jawr DWR2.x parent pom</name>
 	<url>http://jawr.java.net/</url>
@@ -26,7 +26,7 @@
 		<connection>scm:git:git@github.com:ic3fox/jawr-dwr2.x.git</connection>
 		<developerConnection>scm:git:git@github.com:ic3fox/jawr-dwr2.x.git</developerConnection>
 		<url>http://github.com/ic3fox/jawr-dwr2.x</url>
-		<tag>jawr-dwr2.x-parent-3.6</tag>
+		<tag>HEAD</tag>
 	</scm>
 	<developers>
 		<developer>
@@ -79,7 +79,7 @@
 			<dependency>
 				<groupId>net.jawr</groupId>
 				<artifactId>jawr-core</artifactId>
-				<version>3.6</version>
+				<version>3.7-SNAPSHOT</version>
 			</dependency>
 			<dependency>
 				<groupId>${project.groupId}</groupId>
